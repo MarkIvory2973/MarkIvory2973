@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkIvory2973
-- 👀 I’m interested in Computer.
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python/Golang.
 
 <!---
